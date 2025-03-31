@@ -17,5 +17,5 @@ Here are some snapshots of the application:
 ![main edit page](images/LinkPlant.png)
 
 
-### Profile Clint View
-![profile clint view](images/Linkplantclintview.png)
+### Profile client View
+![profile client view](images/Linkplantclintview.png)
