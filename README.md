@@ -14,7 +14,7 @@ LinkPlant is a web application built with Django and HTML that allows users to m
 Here are some snapshots of the application:
 
 ### Main Edit Page
-![main edit page](path/to/homepage-screenshot.png)
+![main edit page](images/LinkPlant.png)
 
 
 ### Profile Clint View
