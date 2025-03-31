@@ -18,4 +18,4 @@ Here are some snapshots of the application:
 
 
 ### Profile Clint View
-![profile clint view](path/to/profile-view-screenshot.png)
+![profile clint view](images/plantclintview.png/.png)
